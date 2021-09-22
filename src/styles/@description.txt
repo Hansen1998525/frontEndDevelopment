@@ -1,0 +1,8 @@
+全局样式管理:
+btn.scss                 # 按钮样式
+element-ui.scss          # 全局自定义 element-ui 样式
+index.scss               # 全局通用样式
+mixin.scss               # 全局mixin
+sidebar.scss             # sidebar css
+transition.scss          # vue transition 动画
+variables.scss           # 全局变量
